@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1009821065661",
+    "project_id": "riverpod-practice-869c7",
+    "storage_bucket": "riverpod-practice-869c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009821065661:android:46380a75eedc2fcbc4b2d4",
+        "android_client_info": {
+          "package_name": "com.example.instagram_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009821065661-0s80rqs7avshsha94ci2d0j2l9dbo6lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHR9_iFwKiwbIxJ2N81JIQoB72yeyrjSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009821065661-0s80rqs7avshsha94ci2d0j2l9dbo6lm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009821065661-stv6j8vlp5fn1qr5i0p9p6j8r5dgdgus.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramPractice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
